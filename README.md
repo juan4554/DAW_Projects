@@ -1,2 +1,3 @@
 # DAW_Projects
-Repo para dejar los proyectos del superior de DAW
+Proyectos del superior de DAW
+Proyectos personales
